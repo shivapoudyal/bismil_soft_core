@@ -1,0 +1,21 @@
+.trendingFeaturesIcons{
+    width: 30px;
+    height: 42px;
+    float: left;
+}
+
+.trendingFeaturesDivHeadings{
+    margin-top: 10px
+}
+
+.justifiedFonts{
+    text-align: justify;
+}
+
+.mainPageBlogImgs{
+    width: 110% !important;
+    margin-left: -5%;
+    
+}
+
+

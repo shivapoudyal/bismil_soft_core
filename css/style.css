@@ -7240,11 +7240,12 @@ table {
     background-position-x: 281px;
 }
 
-
-
-
-
-
-
-	
+.flex_flow{display: flex;}
+.width_100{width: 100%;}
+.align_cent{align-items: center;}
+.btwn_spc{justify-content: space-between;}
+.logo_container{width: 200px;}
+.my_logo{width: 200px;}
+.box-menu{padding:0 !important}
+.my_logo img{width: 100%;}
 	
