@@ -78,8 +78,8 @@ button{
     margin-left: 10px;
 }
 .button2{
-    border: 1px solid #fa872a;
-    color: #FA872A;
+    border: 1px solid #c1262c;
+    color: #c1262c;
     background: transparent;
     padding: 10px 24px;
     border-radius: 4px;
@@ -87,7 +87,7 @@ button{
 .button3{
     color: #fff;
     font-size: 17px;
-    background: #fa872a;
+    background: #c1262c;
     border: none;
     font-weight: 400;
     margin-right: 28px;
@@ -104,7 +104,7 @@ button{
     width: 224px;
     height: 50px;
     border: none;
-    background: linear-gradient(45deg, #3876F1, #1C19B0);
+    background: linear-gradient(45deg, #d3373c, #C1272D);
     border-radius: 4px;
 }
 /*font-family start*/
@@ -147,7 +147,7 @@ button{
     cursor:pointer;
     width:50px;
     height:50px;
-    background-color:#fc811e;
+    background-color:#c1262c;
     text-indent:-9999px;
     display:none;
     -webkit-border-radius:60px;
@@ -198,7 +198,7 @@ button{
     font-weight: 600;
 }
 .deal{
-    background: #f8981d;
+    background: #c1262c;
     color: #fff;
 }
 .time{
@@ -249,7 +249,7 @@ button{
 }
 .header-top-links a:hover span{
 	padding-bottom: 8px;
-	border-bottom: 2px solid #f8981d;
+	border-bottom: 2px solid #c1262c;
 	transition: all 40ms;
 }
 /*header*/
@@ -305,7 +305,7 @@ button{
     font-weight: 500;
 }
 .search{
-    color:#f8981d;
+    color:#c1262c;
     /*margin-bottom: 5px;*/
     background: transparent;
     border: none;
@@ -314,7 +314,7 @@ button{
     display: none;
 }
 .search-course a i{
-    color: #f8981d;
+    color: #c1262c;
 }
 .search-course .dropdown-menu{
     padding: 0;
@@ -448,7 +448,7 @@ nav a{
     font-size: 18px;
     text-transform: uppercase;
     font-weight: 600;
-    border-bottom: 5px solid #fb8f2a;
+    border-bottom: 5px solid #c1262c;
     width: fit-content;
     margin: auto;
     padding-bottom: 5px;
@@ -466,7 +466,12 @@ nav a{
     position: relative;
 }
 .one{
-    background: linear-gradient(45deg, #3abdb7, #c8f199);
+    background-image: url(file:///D:/xampp/htdocs/bismil_soft_core/img/interview.jpeg);
+	background-repeat: no-repeat;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	/* background: linear-gradient(45deg, #ccc, #ccc); */
 }
 .two{
     background: linear-gradient(45deg, #0589A2, #0A3A50);
@@ -567,7 +572,7 @@ nav a{
     }
 .owl-nav .owl-prev:hover, .owl-nav .owl-next:hover{
 	background: none !important;
-    color: #f8981d !important;
+    color: #c1262c !important;
 }
 .owl-carousel .owl-nav button.owl-prev:focus, .owl-carousel .owl-nav button.owl-next:focus, .owl-carousel button.owl-dot{
 	border: none;
@@ -914,15 +919,15 @@ nav a{
 	text-align: center;
 }
 /*.practice-test button{
-	border: 1px solid #fa872a;
-    color: #FA872A;
+	border: 1px solid #c1262c;
+    color: #c1262c;
     width: 250px;
     height: 46px;
     background: transparent;
 }*/
 .button2:hover{
 	color: #fff;
-	background: #fa872a;
+	background: #c1262c;
 	transition: all 800ms;
 }
 .button2:hover i{
@@ -972,7 +977,7 @@ nav a{
     background: #FFC525 !important;
 }*/
 /*.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
-	background: #fb8f2a !important;
+	background: #c1262c !important;
 }*/
 .clients-heading strong{
 	color: #878787;
@@ -1084,8 +1089,8 @@ nav a{
     margin: auto;
 }
 .bg-yellow{
-    color:#f8981d;
-    border-bottom: 3px solid #f8981d;
+    color:#c1262c;
+    border-bottom: 3px solid #c1262c;
 }
 .lc{
 	text-align: center;
@@ -1121,7 +1126,7 @@ nav a{
 	border-radius: 20px;
 	top: 0;
 	left: 0;
-	background: #f8981d;
+	background: #c1262c;
 	transform: scale(1.1);
 	box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 	transition: 0.5s;
@@ -1192,7 +1197,7 @@ nav a{
     font-weight: 300;
 }
 .lc-review p span{
-	color: #F8981D;
+	color: #c1262c;
 }
 .video-learner{
 	text-align: center;
@@ -1271,7 +1276,7 @@ nav a{
 .footer-bottom-line{
 	width: 120px;
     height: 4px;
-    background: #f8981d;
+    background: #c1262c;
     margin: 9px 0;
 }
 
@@ -1351,7 +1356,7 @@ footer{
 .tablinks.active::before{
 	content: '';
     width: 80px;
-    border: 2px solid #f8981d;
+    border: 2px solid #c1262c;
     position: absolute;
     top: 0;
 }
@@ -1445,7 +1450,7 @@ footer{
 	margin-left: -25px;
     border-radius: 6px;
     border: none;
-    background: #F8981D;
+    background: #c1262c;
 }
 .newsletter form button img,.notifications form button img{
 	color: #fff;
@@ -1535,7 +1540,7 @@ footer{
     text-decoration: none;   
 }
 .demo{
-	background: #F8981D;
+	background: #c1262c;
 }
 .fixed a span{
 	font-weight: 400;
@@ -1552,7 +1557,7 @@ footer{
 	    border-radius: 50%;
 	    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, .5);
 	    text-align: center;
-	    color: #f8981d;
+	    color: #c1262c;
 	}
 	.video-btn .ripple {
 	    position: absolute;
@@ -1714,7 +1719,7 @@ footer{
     }
     /*.Placement-training .background-button{
         width: 150px;
-        background: #f8981d;
+        background: #c1262c;
         color: #000;
         border: none;
         border-radius: 4px;
@@ -1824,7 +1829,7 @@ footer{
         text-decoration: none;
     }
     .active-single{
-        border-bottom: 3px solid #f8981d;
+        border-bottom: 3px solid #c1262c;
     }
     /*STICKY navigation bar on course page*/
     .bottom-slide {
@@ -2577,7 +2582,7 @@ footer{
     .join-button button{
         text-transform: uppercase;
         margin-right: 50px;
-        border:1px solid #fa872a;
+        border:1px solid #c1262c;
     }
     .sample a{
         text-transform: uppercase;
@@ -3282,7 +3287,7 @@ footer{
         cursor: pointer;
         margin: 8px 0px;
         font-weight: 500;
-        background: #F8981D;
+        background: #c1262c;
     }
     .resolve-query .resolve-query-img{
         position: absolute;
@@ -4712,7 +4717,7 @@ footer{
 }
 .new-review form button{
     background: transparent;
-    border: 1px solid #F8981D;
+    border: 1px solid #c1262c;
     color: #FA9875;
     padding: 4px 15px;
     text-transform: uppercase;
@@ -5087,7 +5092,7 @@ footer{
     margin: 30px 10px;
 }
 .dropquery-heading {
-    background: #f8981d;
+    background: #c1262c;
     color: #fff;
     text-align: center;
     padding: 6px;
@@ -5106,7 +5111,7 @@ footer{
 }
 .dropquery form input{
     border:none;
-    border-bottom:1.9px solid #f8981d;
+    border-bottom:1.9px solid #c1262c;
     font-size: 13px;
     width: 100%;
     padding: 7px 10px;
@@ -5119,7 +5124,7 @@ footer{
 .drop-number {
     display: flex;
     margin-top: 15px;
-    border-bottom: 1.9px solid #f8981d;
+    border-bottom: 1.9px solid #c1262c;
 }
 .drop-number select{
     border:none;
@@ -5143,7 +5148,7 @@ footer{
     border: none;
     color: #888;
     padding: 0 5px;
-    border-bottom: 1.9px solid #f8981d;
+    border-bottom: 1.9px solid #c1262c;
 }
 .dropquery form .drop-lower-section select::placeholder {
     color:#adadad;
@@ -5152,7 +5157,7 @@ footer{
     width: 100%;
     border: none;
     padding: 5px;
-    border-bottom: 1.9px solid #f8981d;
+    border-bottom: 1.9px solid #c1262c;
 }
 .dropquery form .drop-lower-section textarea::placeholder {
     font-size:13px;
@@ -5163,7 +5168,7 @@ footer{
     width: 100%;
     padding: 7px 0 7px 7px;
     height: 34px;
-    border-bottom: 1.9px solid #f8981d;
+    border-bottom: 1.9px solid #c1262c;
 }
 .dropquery form .drop-lower-section input[type=date]::placeholder {
     border:1px solid #adadad;    
@@ -6205,7 +6210,7 @@ table {
 	    background-size: cover;
 	}
 	.mobile-banner-heading h3{
-		color: #f8981d;
+		color: #c1262c;
     	font-size: 20px;
     	text-align: center;
     	padding-top: 30px;
@@ -6274,7 +6279,7 @@ table {
 	}
 	/*mobile offer*/
 	.mobile-deal{
-		background: #f8981d;
+		background: #c1262c;
 		padding: 5px 0;
 		display: none;
 	}
@@ -6414,7 +6419,7 @@ table {
 	}
 	.navbar-light .navbar-nav .active>.nav-link {
 	    font-weight: 600;
-	    border-bottom: 3px solid #f8981d;
+	    border-bottom: 3px solid #c1262c;
 	    width: fit-content;
 	    padding-bottom: 2px;
 	}
