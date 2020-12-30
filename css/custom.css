@@ -15,7 +15,10 @@
 .mainPageBlogImgs{
     width: 110% !important;
     margin-left: -5%;
-    
+}
+
+.mainPageTrendingItemsImgs{
+    width: 71% !important;
 }
 
 

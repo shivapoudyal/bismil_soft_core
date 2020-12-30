@@ -466,11 +466,11 @@ nav a{
     position: relative;
 }
 .one{
-    background-image: url(file:///D:/xampp/htdocs/bismil_soft_core/img/interview.jpeg);
+/*    background-image: url(file:///D:/xampp/htdocs/bismil_soft_core/img/sql.png);
 	background-repeat: no-repeat;
 	display:block;
 	margin-left:auto;
-	margin-right:auto;
+	margin-right:auto;*/
 	/* background: linear-gradient(45deg, #ccc, #ccc); */
 }
 .two{
